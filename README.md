@@ -1,4 +1,4 @@
-# CYBERFORCESMSTOOL
+# UYARİ
 Bu SMS BOMBERDAN biz sorumlu degiliz ve egitim amaclidir
 # KURULUM
 pip install requests
