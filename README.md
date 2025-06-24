@@ -7,8 +7,11 @@ pkg install git
 pkg install python
 # YAPILIŞI
 git clone https://github.com/kaan-rqb/CYBERFORCESMSTOOL.git
+
 cd CYBERFORCESMSTOOL
+
 ls
+
 python force.py
 # CALİŞABİLCEK PROGRAMLAR
 Linux = Windows
